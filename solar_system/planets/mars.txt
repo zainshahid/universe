@@ -1,2 +1,3 @@
 mars is cool
 mars is dusty
+mars is blue
